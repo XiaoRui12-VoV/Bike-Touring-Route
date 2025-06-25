@@ -1,2 +1,3 @@
 https://maps.app.goo.gl/aqUPtTokwH4Bmjt38　　　志摩サンセットロード
-https://maps.app.goo.gl/Z4ubvE6GnZf9knvi7     多良岳オレンジ海道
+https://maps.app.goo.gl/Z4ubvE6GnZf9knvi7     多良岳オレンジ海道（右回り）
+https://maps.app.goo.gl/6jUAydz5sR1VHkAz9     多良岳オレンジ海道（左回り）
